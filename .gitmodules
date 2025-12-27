@@ -13,3 +13,10 @@
 [submodule "external/cxx"]
 	path = external/cxx
 	url = https://github.com/topjohnwu/libcxx.git
+[submodule "libxposed/api"]
+	path = libxposed/api
+	url = git@github.com:vwww-droid/libxposed-api.git
+	commit = 54582730315ba4a3d7cfaf9baf9d23c419e07006
+[submodule "libxposed/service"]
+	path = libxposed/service
+	url = git@github.com:vwww-droid/libxposed-service.git
